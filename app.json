@@ -2,6 +2,5 @@
   "name": "NotViolet App",
   "description": "Node.js NotViolet instance",
   "repository": "https://github.com/slidemovies/notviolet",
-  // "logo": "https://raw.githubusercontent.com/slidemovies/NotViolet-Static/main/public/uv.png",
-  "keywords": ["tomp", "notviolet"]
+  "keywords": ["notviolet"]
 }
