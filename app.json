@@ -1,7 +1,7 @@
 {
-  "name": "Ultraviolet App",
-  "description": "Node.js Ultraviolet instance",
-  "repository": "https://github.com/titaniumnetwork-dev/Ultraviolet-App",
-  "logo": "https://raw.githubusercontent.com/titaniumnetwork-dev/Ultraviolet-Static/main/public/uv.png",
-  "keywords": ["tomp", "ultraviolet"]
+  "name": "NotViolet App",
+  "description": "Node.js NotViolet instance",
+  "repository": "https://github.com/slidemovies/notviolet",
+  // "logo": "https://raw.githubusercontent.com/slidemovies/NotViolet-Static/main/public/uv.png",
+  "keywords": ["tomp", "notviolet"]
 }
